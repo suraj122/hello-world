@@ -1,1 +1,2 @@
-AltCampus is based in a beautiful hill station.
+AltCampus is based out of a beautiful hill station in the Indian Himalayas, called Dharamsala.
+At AltCampus we love helping people learn software development. 
